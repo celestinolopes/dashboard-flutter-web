@@ -41,32 +41,32 @@ class HomeTab extends StatelessWidget {
               Dashboardcard(
                 icon: Icons.people,
                 color: Colors.yellow[700],
-                label: "USUÁRIOS",
+                label: "PRODUCTS",
                 value: 30,
               ),
               Dashboardcard(
                 icon: Icons.credit_card,
                 color: Colors.blue,
-                label: "DOCUMENTOS",
+                label: "DOCUMENTS",
                 value: 343,
               ),
               Dashboardcard(
                 icon: Icons.bar_chart,
                 color: Colors.green,
-                label: "REIVINDICAÇÕES",
+                label: "USERS",
                 value: 343,
               ),
               Dashboardcard(
                 icon: Icons.bar_chart,
                 color: Colors.red[800],
-                label: "REIVINDICAÇÕES",
+                label: "NOTIFICATIONS",
                 value: 343,
               ),
             ],
           ),
           Padding(
             padding: const EdgeInsets.symmetric(vertical: 20),
-            child: Text("ESTATÍSTICAS DE REIVINDICAÇÕES"),
+            child: Text("ESTATÍSTICAS DE USUÁRIOS"),
           ),
           Container(
               child: SfCartesianChart(

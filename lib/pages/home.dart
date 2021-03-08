@@ -254,10 +254,10 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
                                             icon: Icons.people),
                                       ),
                                       ColaspeItem(
-                                          label: "Documentos",
+                                          label: "Documents",
                                           icon: Icons.credit_card),
                                       ColaspeItem(
-                                        label: "Reivindicações",
+                                        label: "Option 2",
                                         icon: Icons.bar_chart,
                                       ),
                                     ],
