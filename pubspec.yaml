@@ -28,7 +28,6 @@ dependencies:
   meet_network_image: ^0.1.2
   responsive_builder: ^0.3.0
   syncfusion_flutter_charts: ^18.4.46
-  syncfusion_flutter_datagrid: ^18.4.46-beta
 
 dev_dependencies:
   flutter_test:
