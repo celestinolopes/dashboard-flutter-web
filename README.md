@@ -1,16 +1,11 @@
-# flutter_2
+# Dashboard Flutter Web
 
-A new Flutter project.
+This Dashboard was made to show one of the use cases in which Flutter web is applied.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Tasks
 
-A few resources to get you started if this is your first Flutter project:
+- [x] Improve the splash Screen
+- [ ] Create Login and Register Screen 
+- [ ] Add mobile and tablet version
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
