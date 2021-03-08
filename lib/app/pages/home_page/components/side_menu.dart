@@ -1,9 +1,9 @@
 import 'package:expandable/expandable.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_2/app/components/colapseItem.dart';
-import 'package:flutter_2/app/pages/home_page/components/user_profile.dart';
 
+import '../../../components/colapseItem.dart';
 import 'custom_menu_icon_button.dart';
+import 'user_profile.dart';
 
 class SideMenu extends StatefulWidget {
   const SideMenu({

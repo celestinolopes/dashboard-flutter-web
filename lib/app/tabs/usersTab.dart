@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_2/app/models/user.dart';
+
+import '../models/user.dart';
 
 class UserTab extends StatefulWidget {
   const UserTab({Key key}) : super(key: key);

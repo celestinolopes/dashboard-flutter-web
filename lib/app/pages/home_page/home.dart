@@ -1,15 +1,8 @@
-import 'dart:ui';
-
 import 'package:flutter/material.dart';
-import 'package:flutter_2/app/components/colapseItem.dart';
-import 'package:flutter_2/app/tabs/homeTab.dart';
-import 'package:flutter_2/app/tabs/usersTab.dart';
 import 'package:responsive_builder/responsive_builder.dart';
-import 'package:expandable/expandable.dart';
-
-import 'components/custom_menu_icon_button.dart';
+import '../../tabs/homeTab.dart';
+import '../../tabs/usersTab.dart';
 import 'components/side_menu.dart';
-import 'components/user_profile.dart';
 
 class Home extends StatefulWidget {
   @override
