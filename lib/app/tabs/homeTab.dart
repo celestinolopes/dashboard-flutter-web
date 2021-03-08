@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_2/components/dashboardCard.dart';
-import 'package:flutter_2/pages/home.dart';
+import 'package:flutter_2/app/components/dashboardCard.dart';
+import 'package:flutter_2/app/pages/home_page/home.dart';
 import 'package:syncfusion_flutter_charts/charts.dart';
 
 class HomeTab extends StatelessWidget {
