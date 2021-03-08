@@ -15,7 +15,7 @@ To contribute use the branch features
 
 ## Screenshot
 
-![Screenshot 1](https://github.com/celestinolopes/dashboard-flutter-web/blob/master/lib/screenshots/screen01.PNG?raw=true)
+![Screenshot 1](https://github.com/celestinolopes/dashboard-flutter-web/blob/master/lib/app/screenshots/screen01.PNG?raw=true)
 
-![Screenshot 1](https://github.com/celestinolopes/dashboard-flutter-web/blob/master/lib/screenshots/screen02.PNG?raw=true)
+![Screenshot 1](https://github.com/celestinolopes/dashboard-flutter-web/blob/master/lib/app/screenshots/screen02.PNG?raw=true)
 
