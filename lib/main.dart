@@ -21,7 +21,7 @@ class _MyAppState extends State<MyApp> {
           backgroundColor: Colors.red[800], //Color(0xFF3c8dbc),
           elevation: 0,
           title: Text(
-            'Perdidos & Achados',
+            'Flutter Dashboard',
             style: TextStyle(
               fontSize: 15,
             ),
